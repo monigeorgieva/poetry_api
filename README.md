@@ -86,3 +86,7 @@ allure serve reports/allure-results
 
 ### **Video:**
 
+
+https://github.com/user-attachments/assets/f2987712-d14a-485b-afab-79c1b5cc7a07
+
+
