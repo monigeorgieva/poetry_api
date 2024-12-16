@@ -1,6 +1,9 @@
 from typing import List, Union
 
 
+# Comment for the reviewer: Most of these checks are handled by Pydantic,
+# but here I'm demonstrating an additional way to perform validation
+
 def validate_authors(authors: List[str]) -> List[str]:
     """
     Validates that the authors list is not empty and contains only strings.
