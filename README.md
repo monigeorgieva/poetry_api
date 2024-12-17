@@ -1,7 +1,7 @@
 ### **Project Overview**
 
 This project is an automated testing suite for testing of API endpoint for https://poetrydb.org/index.html, including getting of poem by author, by title, getting of random poem, getting 
-of random poems by count and getting of all authors. It uses Pytest for test structuring, Requests module, Pydantic for validation of the field and Allure for reporting.
+of random poems by count and getting of all authors. It uses Pytest for test structuring, Requests module, Pydantic for validation of the fields and Allure for reporting.
 
 ### **Installation steps:**
 
